@@ -1,1 +1,3 @@
-# Holography-radius-calcul
+There is no data available to compute the code. You must use an image with the .tiff extension and modify the file path. In the first program, you will find code to automatically render your hologram in the best plane based on covariance criteria, calculate the magnification, and the size of your filament. The second program will provide you with the filament radius size automatically at each time step.
+
+Il n'y a pas de données pour calculer le code. Vous devez utiliser une image avec l'extension .tiff et modifier le chemin du fichier. Dans le premier programme, vous trouverez un code pour restituer automatiquement votre hologramme dans le meilleur plan basé sur le critère de covariance, calculer le grossissement et la taille de votre filament. Le deuxième programme vous donnera à chaque étape la taille automatique du rayon du filament.
